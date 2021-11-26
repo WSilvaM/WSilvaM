@@ -1,5 +1,5 @@
 ## OLá! Eu me chamo Wanderson Machado
-- 👋 Sou Programador junior
+- 👋 Programador junior
 - 🌱 Estudando Dart flutter...
 - 💞️ Ads...
 <div align="center">
@@ -11,11 +11,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="WsilvaM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
-  <img align="center" alt="WsilvaM-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
   <img align="center" alt="WsilvaM-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="WsilvaM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="WsilvaM-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="WsilvaM-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
 
 </div>
  
