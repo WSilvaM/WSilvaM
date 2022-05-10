@@ -9,10 +9,7 @@
  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsilvaM&layout=compact&langs_count=7&theme=dracula"/>
 </div
  
-  <div
-     
- </div   
-    
+
     
 <div style="display: inline_block"><br>
         <div align="center">
