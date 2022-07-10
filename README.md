@@ -1,6 +1,6 @@
    #Hello World! Eu me chamo Wanderson 
 - 👋 Desenvolvedor JR.
-- 😄 Estudande
+- 😄 
 - 💞️ ADS...
 
 
