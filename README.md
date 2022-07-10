@@ -1,6 +1,6 @@
-   #Hello World! Eu me chamo Wanderson 
-- 👋 Desenvolvedor JR.
-- 😄 
+    
+- 👋 Hello Word! me chamo Wanderson.
+- 😄 Flutter developer
 - 💞️ ADS...
 
 
