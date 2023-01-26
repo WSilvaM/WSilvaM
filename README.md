@@ -1,8 +1,8 @@
     
 - 👋 Hello Word! me chamo Wanderson.
-- 😄 Flutter developer
+- 😄 Desenvolvedor de software
 - 💞️ ADS...
--  Desenvolvedor Mobile Flutter
+-  
 -  https://github.com/WSilvaM/Certificados.git
 
 
